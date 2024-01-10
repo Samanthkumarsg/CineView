@@ -15,7 +15,7 @@ export default function Contents(){
                   <h1 className=' text-lg font-semibold tracking-wide text-gray-800 my-3'> Babylon Kino </h1>
                 </div>
 
-                <div className='w-full flex flex-col items-start justify-center animate-pulse'>
+                <div className='w-full flex flex-col items-start justify-center animate-pulse mt-3'>
                     <h1 className='text-2xl font-normal bg-clip-text text-transparent bg-gradient-to-r from-slate-600 to-red-900'>Als nächstes spielen</h1>
                 </div>
                 
